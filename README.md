@@ -40,11 +40,6 @@ Please if you have questions or problems, contact:
 armand.joulin at gmail.com
 
 ## Bibtex:
-## Contact:
-Please if you have questions or problems, contact:
-armand.joulin at gmail.com
-
-## Bibtex:
 @InProceedings{JouBacPon12,
    title = "Multi-Class Cosegmentation",
    booktitle = "Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR)",
@@ -58,3 +53,8 @@ armand.joulin at gmail.com
    author = "A. Joulin and F. Bach and J. Ponce",
    year = "2010"
 }
+
+## Contact:
+Please if you have questions or problems, contact:
+armand.joulin at gmail.com
+
