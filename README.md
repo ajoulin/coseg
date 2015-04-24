@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Cosegmentation
+=======
+# Cosegenation
+>>>>>>> 271cfe77723923d51d8fc95a3a8e03f49b41125c
 This is the code for:
 
 *Discriminative Clustering for Image Co-segmentation
@@ -10,7 +14,11 @@ CVPR, 2012.
 
 Please these papers if you use this code (bibtex below).
 
+<<<<<<< HEAD
 ## Requirements:
+=======
+## REQUIREMENTS:
+>>>>>>> 271cfe77723923d51d8fc95a3a8e03f49b41125c
 
 You need the vlfeat image toolbox by Andrea Vedaldi and Brian Fulkerson:
 http://www.vlfeat.org/
@@ -18,7 +26,11 @@ http://www.vlfeat.org/
 You need Mark Schmidt's optimization toolbox:
 http://www.di.ens.fr/~mschmidt/Software/minFunc.html
 
+<<<<<<< HEAD
 ## Install:
+=======
+## INSTALL:
+>>>>>>> 271cfe77723923d51d8fc95a3a8e03f49b41125c
 run mexAll.m in MATLAB to compile all mex files
 
 RUN IT:
@@ -27,7 +39,11 @@ There are three examples:
 *multicoseg_example.m : multiclass coseg example
 *grabcut_example.m : grabcut example on single image (note that you can use it on multiple images)
 
+<<<<<<< HEAD
 ## Import options:
+=======
+# IMPORT OPTIONS:
+>>>>>>> 271cfe77723923d51d8fc95a3a8e03f49b41125c
 *param.onlyDiffrac : To run the cvpr'10 alone 
 *param.initDiffac : Initialize the cvpr'12 cod by the cvpr'10 one 
 *param.useMask : to use boundingboxes (i.e. grabcut)
@@ -35,11 +51,19 @@ There are three examples:
 *typeFeat : either 'color' or 'sift'
 *typeKernel : either 'chi2' or 'Hellsinger'
 
+<<<<<<< HEAD
 ## Contact:
 Please if you have questions or problems, contact:
 armand.joulin at gmail.com
 
 ## Bibtex:
+=======
+## CONTACT:
+Please if you have questions or problems, contact:
+armand.joulin at gmail.com
+
+## BIBTEX:
+>>>>>>> 271cfe77723923d51d8fc95a3a8e03f49b41125c
 @InProceedings{JouBacPon12,
    title = "Multi-Class Cosegmentation",
    booktitle = "Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR)",
