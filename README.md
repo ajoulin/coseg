@@ -1,10 +1,10 @@
 # Cosegmentation
 This is the code for:
 
-*Discriminative Clustering for Image Co-segmentation
+* Discriminative Clustering for Image Co-segmentation
 Armand Joulin, Francis Bach and Jean Ponce.
 CVPR, 2010.
-*Multi-Class Cosegmentation
+* Multi-Class Cosegmentation
 Armand Joulin, Francis Bach and Jean Ponce.
 CVPR, 2012.
 
@@ -23,17 +23,17 @@ run mexAll.m in MATLAB to compile all mex files
 
 ## Run it:
 There are three examples:
-*coseg_example.m : classical coseg example
-*multicoseg_example.m : multiclass coseg example
-*grabcut_example.m : grabcut example on single image (note that you can use it on multiple images)
+* coseg_example.m : classical coseg example
+* multicoseg_example.m : multiclass coseg example
+* grabcut_example.m : grabcut example on single image (note that you can use it on multiple images)
 
 ## Import options:
-*param.onlyDiffrac : To run the cvpr'10 alone 
-*param.initDiffac : Initialize the cvpr'12 cod by the cvpr'10 one 
-*param.useMask : to use boundingboxes (i.e. grabcut)
+* param.onlyDiffrac : To run the cvpr'10 alone 
+* param.initDiffac : Initialize the cvpr'12 cod by the cvpr'10 one 
+* param.useMask : to use boundingboxes (i.e. grabcut)
 
-*typeFeat : either 'color' or 'sift'
-*typeKernel : either 'chi2' or 'Hellsinger'
+* typeFeat : either 'color' or 'sift'
+* typeKernel : either 'chi2' or 'Hellsinger'
 
 ## Contact:
 Please if you have questions or problems, contact:
