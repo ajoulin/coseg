@@ -35,10 +35,6 @@ There are three examples:
 * typeFeat : either 'color' or 'sift'
 * typeKernel : either 'chi2' or 'Hellsinger'
 
-## Contact:
-Please if you have questions or problems, contact:
-armand.joulin at gmail.com
-
 ## Bibtex:
 @InProceedings{JouBacPon12,
    title = "Multi-Class Cosegmentation",
